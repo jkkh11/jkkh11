@@ -12,7 +12,7 @@
 💻 I enjoy learning and improving my knowledge on new and useful ideas and concepts.  
 🔍 I'm interested in AI & machine learning, algorithm design, web development, and gaming.  
 
-##  Learning Skills
+##  🚀 Learning Skills
 - Python | Java | JavaScript
 - CSS | React | HTML5
 
