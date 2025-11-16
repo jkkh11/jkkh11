@@ -1,4 +1,4 @@
-![Head Banner](https://raw.githubusercontent.com/jkkh11/Assets/refs/heads/main/SL-101619-24150-39.jpg?token=GHSAT0AAAAAADPLEONDR4B3YA5FRBV2UO4K2IZE5BQ)
+![Head Banner](https://github.com/jkkh11/Assets/blob/main/SL-101619-24150-39.jpg?raw=true)
 
 ## <p align = "center"> Hi there, I'm Joshua Hung👋 </p>
 
